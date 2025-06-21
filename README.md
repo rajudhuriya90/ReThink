@@ -50,3 +50,15 @@ MIT
 
 ---
 Made with ❤️ for mental wellness.
+
+
+## 🖼️ Screenshots
+
+### 🧠 Thought Input Form
+![User Input](screenshots/user%20input.png)
+
+### 🔄 Reframed Thoughts Output
+![Reframed Thoughts](screenshots/Reframe%20Thoughts.png)
+
+### 📊 Final Display with Song Suggestion
+![Result Page](screenshots/Screenshot%202025-06-21%20145933.png)
